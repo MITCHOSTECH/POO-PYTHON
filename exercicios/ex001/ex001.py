@@ -1,4 +1,4 @@
-#Declaração dde classe
+  #Declaração dde classe
 
 class Gafanhoto:
     def __init__(self): # Método construtor
@@ -7,7 +7,7 @@ class Gafanhoto:
         self.idade = 0
 
 
-    # Método de Instaancia
+    # Método de Instancia
     def aniversario(self):
         self.idade += 1
 
